@@ -36,7 +36,7 @@ My research interests mainly lie in confidential computing and system security, 
     - Undergraduate student in Transportation Engineering at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp). Rank: 2/270. Aug 2016 - Sep 2017. 
     
 ## Experiences
-* **Alibaba Cloud**
+* **Alibaba Cloud**  
     Research intern in Database and Storage Lab. Mentor: Dr. Sheng Wang. Jul. 2024 - Present.
 * **Huawei**  
     Research intern in System Security Technology Lab. Mentor: Dr. Peng Xu. Oct 2023 - Apr. 2024.
