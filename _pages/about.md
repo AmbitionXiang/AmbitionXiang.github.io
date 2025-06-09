@@ -12,6 +12,12 @@ I am now a Ph.D candidate in [Institute for Interdisciplinary Information Scienc
 My research interests mainly lie in confidential computing and system security, especially, the trusted execution environment (TEE), including its applications, constructions, side channels, formal models, and combination with cryptography. Here is my [CV](https://AmbitionXiang.github.io/files/cv_en_2407.pdf)/[简历](https://AmbitionXiang.github.io/files/cv_cn_2407.pdf).
 
 ## Publications
+* **TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage**
+    *Xiang Li*, Huanchen Zhang, and Mingyu Gao
+    *APPT 2025* TBD
+* **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**
+    Jiaoyi Zhang, Liqiang Peng, Mo Sha, Weiran Liu, *Xiang Li*, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang
+    *SIGMOD 2025* TBD
 * **BULKOR: Enabling Bulk Loading for Path ORAM**  
     *Xiang Li*, Yunqian Luo, and Mingyu Gao  
     *S&P 2024* [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a103/1Ub23aTrrDa)/[Code](https://github.com/tsinghua-ideal/bulkor)
@@ -37,7 +43,7 @@ My research interests mainly lie in confidential computing and system security, 
     
 ## Experiences
 * **Alibaba Cloud**  
-    Research intern in Database and Storage Lab. Mentor: Dr. Sheng Wang. Jul. 2024 - Present.
+    Research intern in Database and Storage Lab. Mentor: Dr. Sheng Wang. Jul. 2024 - May 2025.
 * **Huawei**  
     Research intern in System Security Technology Lab. Mentor: Dr. Peng Xu. Oct 2023 - Apr. 2024.
 * **Ant Group**  
@@ -48,11 +54,13 @@ My research interests mainly lie in confidential computing and system security, 
 * **Teaching Assistant** 80470262 Computer Systems and Architectures - Fall 2021.
 
 ## Honors and Awards
+* Tsinghua University Jiang Nanxiang Scholarship (清华大学蒋南翔奖学金，20 out of all graduate students), 2024.
 * Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2023.
 * Comprehensive Excellence Scholarship of IIIS (交叉信息院综合优秀奖学金), 2022, 2023.
 * Excellent Social Practice Award of Tsinghua University (清华大学社会实践奖学金), 2022.
 * Cyrus Tang Scholarship (唐仲英德育奖学金), 2016-2020.
-* The Most Influential Undergraduate Students of Southeast University (东南大学最具影响力本科生, 10 out of all graduates), 2020. 
+* The Most Influential Undergraduate Students of Southeast University (东南大学最具影响力本科生, 10 out of all graduates), 2020.
+* Outstanding Undergraduate Graduate of Southeast University (东南大学本科优秀毕业生), 2020.
 * Sun Qingyun Innovation Scholarship (孙庆云创新奖学金), 2019.
 * National Encouragement scholarship (国家励志奖学金), 2019.
 * Merit Student (三好学生), 2019.
