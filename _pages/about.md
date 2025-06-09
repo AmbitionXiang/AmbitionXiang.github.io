@@ -12,11 +12,11 @@ I am now a Ph.D candidate in [Institute for Interdisciplinary Information Scienc
 My research interests mainly lie in confidential computing and system security, especially, the trusted execution environment (TEE), including its applications, constructions, side channels, formal models, and combination with cryptography. Here is my [CV](https://AmbitionXiang.github.io/files/cv_en_2407.pdf)/[简历](https://AmbitionXiang.github.io/files/cv_cn_2407.pdf).
 
 ## Publications
-* **TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage**
-    *Xiang Li*, Huanchen Zhang, and Mingyu Gao
+* **TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage**  
+    *Xiang Li*, Huanchen Zhang, and Mingyu Gao  
     *APPT 2025* TBD
-* **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**
-    Jiaoyi Zhang, Liqiang Peng, Mo Sha, Weiran Liu, *Xiang Li*, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang
+* **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
+    Jiaoyi Zhang, Liqiang Peng, Mo Sha, Weiran Liu, *Xiang Li*, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
     *SIGMOD 2025* TBD
 * **BULKOR: Enabling Bulk Loading for Path ORAM**  
     *Xiang Li*, Yunqian Luo, and Mingyu Gao  
