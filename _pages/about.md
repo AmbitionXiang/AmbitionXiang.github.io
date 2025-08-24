@@ -8,36 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am now an R&D expert in China Telecom eSurfing Cloud (State Cloud). Previously, I obtained a Ph.D. degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2025. I was very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. 
+I am now an R&D expert in [China Telecom eSurfing Cloud (State Cloud)](https://www.esurfingcloud.com/). Previously, I obtained a Ph.D. degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2025. I was very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. 
 My research interests mainly lie in confidential computing and system security, especially, the trusted execution environment (TEE), including its applications, constructions, side channels, formal models, and combination with cryptography. Here is my [CV](https://AmbitionXiang.github.io/files/cv_en_2508.pdf)/[简历](https://AmbitionXiang.github.io/files/cv_cn_2508.pdf).
 
 ## Publications
-* **Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy**  
-    *Xiang Li*, Weijie Liu, Fabing Li, Hongliang Tian, Zheli Liu, Shoumeng Yan, and Mingyu Gao  
+* *Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy*  
+    **Xiang Li**, Weijie Liu, Fabing Li, Hongliang Tian, Zheli Liu, Shoumeng Yan, and Mingyu Gao  
     *EuroSys 2026* TBD
-* **BOMAP: A Round-Efficient Construction of Oblivious Maps**  
-    Ruixuan Wang, Siyi Lv, *Xiang Li*, Haoshuai Gong, Zheli Liu, Tong Li, and Liang Guo  
+* *BOMAP: A Round-Efficient Construction of Oblivious Maps*  
+    Ruixuan Wang, Siyi Lv, **Xiang Li**, Haoshuai Gong, Zheli Liu, Tong Li, and Liang Guo  
     *IEEE Transactions on Dependable and Secure Computing (TDSC)* TBD
-* **TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage**  
-    *Xiang Li*, Huanchen Zhang, and Mingyu Gao  
+* *TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage*  
+    **Xiang Li**, Huanchen Zhang, and Mingyu Gao  
     *APPT 2025* TBD
-* **Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store**  
-    Jiaoyi Zhang, Liqiang Peng, Mo Sha, Weiran Liu, *Xiang Li*, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
+* *Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store*  
+    Jiaoyi Zhang, Liqiang Peng, Mo Sha, Weiran Liu, **Xiang Li**, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
     *SIGMOD 2025* [PDF](https://dl.acm.org/doi/10.1145/3725299)/[Code](https://github.com/alibaba-edu/mpc4j)
-* **BULKOR: Enabling Bulk Loading for Path ORAM**  
-    *Xiang Li*, Yunqian Luo, and Mingyu Gao  
+* *BULKOR: Enabling Bulk Loading for Path ORAM*  
+    **Xiang Li**, Yunqian Luo, and Mingyu Gao  
     *S&P 2024* [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a103/1Ub23aTrrDa)/[Code](https://github.com/tsinghua-ideal/bulkor)
-* **Secure MLaaS with Temper: Trusted and Efficient Model Partitioning and Enclave Reuse**  
-    Fabing Li, *Xiang Li*, and Mingyu Gao  
+* *Secure MLaaS with Temper: Trusted and Efficient Model Partitioning and Enclave Reuse*  
+    Fabing Li, **Xiang Li**, and Mingyu Gao  
     *ACSAC 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/temper.acsac23.pdf)/[Code](https://github.com/tsinghua-ideal/TEMPER-Secure-MLaaS)
-* **SODA: A Set of Fast Oblivious Algorithms in Distributed Secure Data Analytics**  
-    *Xiang Li*, Nuozhou Sun, Yunqian Luo, and Mingyu Gao  
+* *SODA: A Set of Fast Oblivious Algorithms in Distributed Secure Data Analytics*  
+    **Xiang Li**, Nuozhou Sun, Yunqian Luo, and Mingyu Gao  
     *VLDB 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/soda.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare/tree/oblivious_soda)
-* **Flare: A Fast, Secure, and Memory-Efficient Distributed Analytics Framework**  
-    *Xiang Li*, Fabing Li, and Mingyu Gao  
+* *Flare: A Fast, Secure, and Memory-Efficient Distributed Analytics Framework*  
+    **Xiang Li**, Fabing Li, and Mingyu Gao  
     *VLDB 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/flare.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare)
-* **DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing**  
-    Bohan Zhao, *Xiang Li*, Boyu Tian, Zhiyu Mei, Wenfei Wu  
+* *DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing*  
+    Bohan Zhao, **Xiang Li**, Boyu Tian, Zhiyu Mei, Wenfei Wu  
     *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
 ## Education
