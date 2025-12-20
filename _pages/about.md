@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now an R&D expert in [China Telecom eSurfing Cloud (State Cloud)](https://www.esurfingcloud.com/). Previously, I obtained a Ph.D. degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2025. I was very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. 
+I am now leading the Innovative Lab for Cryptographic Computing in [China Telecom eSurfing Cloud (State Cloud)](https://www.esurfingcloud.com/), where I am also an R&D expert. Previously, I obtained a Ph.D. degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2025. I was very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. 
 My research interests mainly lie in confidential computing and system security, especially, the trusted execution environment (TEE), including its applications, constructions, side channels, formal models, and combination with cryptography. Here is my [CV](https://AmbitionXiang.github.io/files/cv_en_2508.pdf)/[简历](https://AmbitionXiang.github.io/files/cv_cn_2508.pdf).
 
 ## Publications
+* Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*  
+    **Xiang Li**, Baiting Jiang, Xiaoyu Fan, Weijie Liu, Yifan Song, and Mingyu Gao  
+    *CHES 2026* TBD
 * *Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy*  
     **Xiang Li**, Weijie Liu, Fabing Li, Hongliang Tian, Zheli Liu, Shoumeng Yan, and Mingyu Gao  
     *EuroSys 2026* TBD
@@ -48,6 +51,9 @@ My research interests mainly lie in confidential computing and system security, 
     - Undergraduate student in Transportation Engineering at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp). Rank: 2/270. Aug 2016 - Sep 2017. 
     
 ## Experiences
+* **China Telecom eSurfing Cloud (State Cloud)**  
+    Director of Innovative Lab for Cryptographic Computing. Nov. 2025 - Present.  
+    R&D expert in Public Cloud Division. Jul. 2025 - Present.
 * **Alibaba Cloud**  
     Research intern in Database and Storage Lab. Mentor: Dr. Sheng Wang. Jul. 2024 - May 2025.
 * **Huawei**  
