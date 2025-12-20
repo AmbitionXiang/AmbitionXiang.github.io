@@ -12,7 +12,7 @@ I am now leading the Innovative Lab for Cryptographic Computing in [China Teleco
 My research interests mainly lie in confidential computing and system security, especially, the trusted execution environment (TEE), including its applications, constructions, side channels, formal models, and combination with cryptography. Here is my [CV](https://AmbitionXiang.github.io/files/cv_en_2508.pdf)/[简历](https://AmbitionXiang.github.io/files/cv_cn_2508.pdf).
 
 ## Publications
-* Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*  
+* *Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*  
     **Xiang Li**, Baiting Jiang, Xiaoyu Fan, Weijie Liu, Yifan Song, and Mingyu Gao  
     *CHES 2026* TBD
 * *Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy*  
