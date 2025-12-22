@@ -14,34 +14,34 @@ My research interests mainly lie in confidential computing and system security, 
 ## Publications
 * *Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*  
     **Xiang Li**, Baiting Jiang, Xiaoyu Fan, Weijie Liu, Yifan Song, and Mingyu Gao  
-    *CHES 2026* TBD
+    *International Conference on Cryptographic Hardware and Embedded Systems (CHES 2026)* [**TH-CPL-A, CCF-B**] TBD
 * *Pyramid: A Secure, Resource-Efficient, and Pluggable Kubernetes for Multi-Tenancy*  
     **Xiang Li**, Weijie Liu, Fabing Li, Hongliang Tian, Zheli Liu, Shoumeng Yan, and Mingyu Gao  
-    *EuroSys 2026* TBD
+    *European Conference on Computer Systems (EuroSys 2026)* [**TH-CPL-A, CCF-A**] TBD
 * *BOMAP: A Round-Efficient Construction of Oblivious Maps*  
     Ruixuan Wang, Siyi Lv, **Xiang Li**, Haoshuai Gong, Zheli Liu, Tong Li, and Liang Guo  
-    *IEEE Transactions on Dependable and Secure Computing (TDSC)* TBD
+    *IEEE Transactions on Dependable and Secure Computing (TDSC)* [**TH-CPL-A, CCF-A**]  [PDF](https://ieeexplore.ieee.org/document/11146595/)
 * *TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage*  
     **Xiang Li**, Huanchen Zhang, and Mingyu Gao  
-    *APPT 2025* TBD
+    *International Symposium on Advanced Parallel Processing Technology (APPT 2025)* [Organized by CCF Technical Committee on Computer Architecture] [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/twinstore.appt25.pdf)/[Code](https://github.com/tsinghua-ideal/twinstore)
 * *Femur: A Flexible Framework for Fast and Secure Querying from Public Key-Value Store*  
     Jiaoyi Zhang, Liqiang Peng, Mo Sha, Weiran Liu, **Xiang Li**, Sheng Wang, Feifei Li, Mingyu Gao, and Huanchen Zhang  
-    *SIGMOD 2025* [PDF](https://dl.acm.org/doi/10.1145/3725299)/[Code](https://github.com/alibaba-edu/mpc4j)
+    *ACM Conference on Management of Data (SIGMOD 2025)* [**TH-CPL-A, CCF-A**] [PDF](https://dl.acm.org/doi/10.1145/3725299)/[Code](https://github.com/alibaba-edu/mpc4j)
 * *BULKOR: Enabling Bulk Loading for Path ORAM*  
     **Xiang Li**, Yunqian Luo, and Mingyu Gao  
-    *S&P 2024* [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a103/1Ub23aTrrDa)/[Code](https://github.com/tsinghua-ideal/bulkor)
+    *IEEE Symposium on Security and Privacy (S&P 2024)* [**TH-CPL-A, CCF-A**] [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a103/1Ub23aTrrDa)/[Code](https://github.com/tsinghua-ideal/bulkor)
 * *Secure MLaaS with Temper: Trusted and Efficient Model Partitioning and Enclave Reuse*  
     Fabing Li, **Xiang Li**, and Mingyu Gao  
-    *ACSAC 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/temper.acsac23.pdf)/[Code](https://github.com/tsinghua-ideal/TEMPER-Secure-MLaaS)
+    *Annual Computer Security Applications Conference (ACSAC 2023)* [**TH-CPL-B, CCF-B**] [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/temper.acsac23.pdf)/[Code](https://github.com/tsinghua-ideal/TEMPER-Secure-MLaaS)
 * *SODA: A Set of Fast Oblivious Algorithms in Distributed Secure Data Analytics*  
     **Xiang Li**, Nuozhou Sun, Yunqian Luo, and Mingyu Gao  
-    *VLDB 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/soda.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare/tree/oblivious_soda)
+    *International Conference on Very Large Data Bases (VLDB 2023)* [**TH-CPL-A, CCF-A**] [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/soda.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare/tree/oblivious_soda)
 * *Flare: A Fast, Secure, and Memory-Efficient Distributed Analytics Framework*  
     **Xiang Li**, Fabing Li, and Mingyu Gao  
-    *VLDB 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/flare.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare)
+    *International Conference on Very Large Data Bases (VLDB 2023)* [**TH-CPL-A, CCF-A**] [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/flare.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare)
 * *DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing*  
     Bohan Zhao, **Xiang Li**, Boyu Tian, Zhiyu Mei, Wenfei Wu  
-    *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
+    *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)* [**TH-CPL-A, CCF-A**] [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
 ## Education
 * **Tsinghua University**  
