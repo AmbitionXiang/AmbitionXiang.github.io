@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now leading the Innovative Lab for Cryptographic Computing in [China Telecom eSurfing Cloud (State Cloud)](https://www.esurfingcloud.com/), where I am also an R&D expert. Previously, I obtained a Ph.D. degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2025. I was very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. 
+I am now leading the Innovative Lab for Cryptographical Computation in [China Telecom eSurfing Cloud (State Cloud)](https://www.esurfingcloud.com/), where I am also an R&D expert. Previously, I obtained a Ph.D. degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2025. I was very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. 
 My research interests mainly lie in confidential computing and system security, especially, the trusted execution environment (TEE), including its applications, constructions, side channels, formal models, and combination with cryptography. Here is my [CV](https://AmbitionXiang.github.io/files/cv_en_2508.pdf)/[简历](https://AmbitionXiang.github.io/files/cv_cn_2508.pdf).
 
 ## Publications
+* *A System Capable of Verifiably and Privately Screening Global DNA Synthesis*  
+    Carsten Baum, Jens Berlips, Walther Chen, Helena Cozzarini, Hongrui Cui, Ivan Damgård, Jiangbin Dong, Kevin M Esvelt, Leonard Foner, Mingyu Gao, Dana Gretton, Martin Kysel, Juanru Li, **Xiang Li**, Omer Paneth, Ronald L Rivest, Francesca Sage-Ling, Adi Shamir, Yue Shen, Meicen Sun, Vinod Vaikuntanathan, Lynn Van Hauwe, Theia Vogel, Benjamin Weinstein-Raun, Yun Wang, Daniel Wichs, Stephen Wooster, Andrew C Yao, Yu Yu, Haoling Zhang, Kaiyi Zhang  
+    *National Science Review (NSR)* [**IF 17.7**] [PDF](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag103/8487636)
 * *Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*  
     **Xiang Li**, Baiting Jiang, Xiaoyu Fan, Weijie Liu, Yifan Song, and Mingyu Gao  
     *International Conference on Cryptographic Hardware and Embedded Systems (CHES 2026)* [**TH-CPL-A, CCF-B**] TBD
@@ -20,7 +23,7 @@ My research interests mainly lie in confidential computing and system security, 
     *European Conference on Computer Systems (EuroSys 2026)* [**TH-CPL-A, CCF-A**] TBD
 * *BOMAP: A Round-Efficient Construction of Oblivious Maps*  
     Ruixuan Wang, Siyi Lv, **Xiang Li**, Haoshuai Gong, Zheli Liu, Tong Li, and Liang Guo  
-    *IEEE Transactions on Dependable and Secure Computing (TDSC)* [**TH-CPL-A, CCF-A**]  [PDF](https://ieeexplore.ieee.org/document/11146595/)
+    *IEEE Transactions on Dependable and Secure Computing (TDSC)* [**TH-CPL-A, CCF-A**]  [PDF](https://www.computer.org/csdl/journal/tq/2026/01/11146595/29GBGECKWK4)
 * *TwinStore: Secure Key-Value Stores Made Faster with Hybrid Trusted/Untrusted Storage*  
     **Xiang Li**, Huanchen Zhang, and Mingyu Gao  
     *International Symposium on Advanced Parallel Processing Technology (APPT 2025)* [Organized by CCF Technical Committee on Computer Architecture] [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/twinstore.appt25.pdf)/[Code](https://github.com/tsinghua-ideal/twinstore)
