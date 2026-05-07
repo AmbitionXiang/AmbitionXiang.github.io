@@ -13,7 +13,7 @@ My research interests mainly lie in confidential computing and system security, 
 
 ## Publications
 * *A System Capable of Verifiably and Privately Screening Global DNA Synthesis*  
-    Carsten Baum, Jens Berlips, Walther Chen, Helena Cozzarini, Hongrui Cui, Ivan Damgård, Jiangbin Dong, Kevin M Esvelt, Leonard Foner, Mingyu Gao, Dana Gretton, Martin Kysel, Juanru Li, **Xiang Li**, Omer Paneth, Ronald L Rivest, Francesca Sage-Ling, Adi Shamir, Yue Shen, Meicen Sun, Vinod Vaikuntanathan, Lynn Van Hauwe, Theia Vogel, Benjamin Weinstein-Raun, Yun Wang, Daniel Wichs, Stephen Wooster, Andrew C Yao, Yu Yu, Haoling Zhang, Kaiyi Zhang  
+    [*Alphabetical order*] Carsten Baum, Jens Berlips, Walther Chen, Helena Cozzarini, Hongrui Cui, Ivan Damgård, Jiangbin Dong, Kevin M Esvelt, Leonard Foner, Mingyu Gao, Dana Gretton, Martin Kysel, Juanru Li, **Xiang Li**, Omer Paneth, Ronald L Rivest, Francesca Sage-Ling, Adi Shamir, Yue Shen, Meicen Sun, Vinod Vaikuntanathan, Lynn Van Hauwe, Theia Vogel, Benjamin Weinstein-Raun, Yun Wang, Daniel Wichs, Stephen Wooster, Andrew C Yao, Yu Yu, Haoling Zhang, Kaiyi Zhang  
     *National Science Review (NSR)* [**IF 17.7**] [PDF](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag103/8487636)
 * *Loricae: Upgrading and Optimizing Multi-Party Computation Protocols with Filmy Hardware Enclaves*  
     **Xiang Li**, Baiting Jiang, Xiaoyu Fan, Weijie Liu, Yifan Song, and Mingyu Gao  
